@@ -4,3 +4,11 @@ print(l)
 print(l[0])
 print(l[1])
 print(l[2])
+
+l1 =l[0:3]
+l2 = l[1:3]
+l3 = l[2:3]
+
+print(l1)
+print(l2)
+print(l3)
