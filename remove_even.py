@@ -8,7 +8,7 @@ def remove_even(lst):
     return odds  # Return the new list
 
 
-print(remove_even([3, 2, 41, 3, 34]))
+print(remove_even([3, 2, 41, 3, 34,32]))
 
 # or 
 
