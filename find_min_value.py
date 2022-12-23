@@ -94,4 +94,4 @@ def find_minimum(lst):
     return minimum
 
 
-print(find_minimum([9, 2, 3, 6]))
+print(find_minimum([9, 2, 3, 6,5]))
